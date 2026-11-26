@@ -1,0 +1,6 @@
+{
+  "name": "Odia Gita Bahi",
+  "description": "Odia Christian Song Book Android App with Baserow sync, offline support, categories, search, and favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

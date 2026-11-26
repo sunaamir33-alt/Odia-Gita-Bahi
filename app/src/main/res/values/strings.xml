@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Odia Gita Bahi</string>
+    <string name="app_name_odia">ଓଡ଼ିଆ ଗୀତ ବହି</string>
+    <string name="app_tagline">Odia Christian Song Book</string>
+    <string name="error_missing_baserow_token">Baserow API token is not configured. Add BASEROW_API_TOKEN in AI Studio Secrets.</string>
+    <string name="error_offline_no_cache">You are offline and no songs have been downloaded yet.</string>
+    <string name="content_desc_app_logo">Odia Gita Bahi Logo</string>
+    <string name="content_desc_hero_banner">Odia Gita Bahi Banner</string>
+    <string name="content_desc_favorite_toggle">Toggle favorite song</string>
+    <string name="content_desc_navigate_back">Navigate back</string>
+</resources>
